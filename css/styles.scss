@@ -20,7 +20,7 @@ nav{
     background-color: whitesmoke;
     width: 100%;
 }
-
+/*-------Logo stlying--------*/
 .site-logo {
     width: 32px;
     height: 32px;
@@ -60,7 +60,7 @@ a {
 .logo-text:hover {
     color: rgb(3, 128, 3);
 }
-
+/*--------menu styling------*/
 .menu {
     display: flex;
     justify-content: flex-end;
@@ -194,7 +194,7 @@ button:hover {
     padding-top: 20px;
     height: 90vh;
 }
-
+/*-----about page text styling------*/
 .about-text {
     width:500px;
     margin-left: 60px;
@@ -241,7 +241,7 @@ button:hover {
     
 }
 
-
+/*-----about page image styling------*/
 .photo-container {
     height: 320px;
     margin-left: 20px;
@@ -315,6 +315,7 @@ button:hover {
     width: 100%;
 
 }
+/*-----work page text styling------*/
 .work-text p:nth-child(1){
 	font-family: calibri;
 	font-weight:bold;
@@ -352,6 +353,8 @@ button:hover {
     line-height:0px;
     padding: 10px;
 }
+
+/*-----work page box styling------*/
 .box-container{
 	display:flex;
     justify-content:space-between;
