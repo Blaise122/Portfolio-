@@ -1,0 +1,41 @@
+commit 64c880ed64c5de094b4b6bfa16341515bcafa51c
+Author: Blaise122 <70517861+Blaise122@users.noreply.github.com>
+Date:   Thu Nov 12 11:57:44 2020 +1000
+
+    added linkedin &  github links to social icons
+
+commit 3fb9b7ea33b4c99c050061a7bb9404cfba78d00b
+Author: Blaise122 <70517861+Blaise122@users.noreply.github.com>
+Date:   Thu Nov 12 11:49:33 2020 +1000
+
+    added link to linkedin to website
+
+commit c66ac922a162b4148d3f5fe2cbc65778054d3108
+Author: Blaise122 <70517861+Blaise122@users.noreply.github.com>
+Date:   Thu Nov 12 11:37:24 2020 +1000
+
+    changed color of a back
+
+commit 290e0dee834e1bfd94506149c5bb481c333f8486
+Author: Blaise122 <70517861+Blaise122@users.noreply.github.com>
+Date:   Thu Nov 12 11:35:01 2020 +1000
+
+    changed color of a in css
+
+commit e7f4c36caaba41cb8a83ba610fd092c10b55a28c
+Author: Blaise122 <70517861+Blaise122@users.noreply.github.com>
+Date:   Thu Nov 12 11:32:31 2020 +1000
+
+    inserted a new first image for my blog page
+
+commit 1bd82deccfcf6db519062714f2e97b8ffb8b267b
+Author: Blaise122 <70517861+Blaise122@users.noreply.github.com>
+Date:   Thu Nov 12 11:28:42 2020 +1000
+
+    deleted first image of blog page
+
+commit df66d05f2e7c2e655aae7b9150f777f2a3b11f9b
+Author: Blaise122 <70517861+Blaise122@users.noreply.github.com>
+Date:   Thu Nov 12 11:11:56 2020 +1000
+
+    first commit
