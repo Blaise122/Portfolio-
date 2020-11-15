@@ -1,7 +1,8 @@
 # Portfolio-
 
 ## Links
-()
+- [My Website](https://blaisetsh.netlify.app/)
+- [Github](https://github.com/Blaise122/Portfolio-.git))
 
 
 > ## Purpose
@@ -79,12 +80,6 @@ Key skills include:
 - Technical knowledge relating to information technology, 
 - Software development/coding, programming languages and development stacks
 - High expectations of professionalism and a positive work ethic
-
-
-
-
-
-
 
 > ## Tech stack
 - HTML5
