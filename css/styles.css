@@ -23,12 +23,13 @@ nav {
   width: 100%;
 }
 
+/*-------Logo stlying--------*/
 .site-logo {
   width: 32px;
   height: 32px;
   display: block;
   overflow: visible;
-  border: 4px solid #000;
+  border: 4px solid #038003;
   position: relative;
   transform: rotate(0deg);
   transition: transform 0.4s ease-in-out;
@@ -65,6 +66,7 @@ a {
   color: #038003;
 }
 
+/*--------menu styling------*/
 .menu {
   display: flex;
   justify-content: flex-end;
@@ -149,7 +151,7 @@ button:hover {
 }
 
 /*-------Responsive-Home--------*/
-@media screen and (max-width: 760px) {
+@media screen and (max-width: 770px) {
   .model {
     height: 290px;
     left: 90%;
@@ -197,6 +199,7 @@ button:hover {
   height: 90vh;
 }
 
+/*-----about page text styling------*/
 .about-text {
   width: 500px;
   margin-left: 60px;
@@ -205,7 +208,7 @@ button:hover {
 }
 
 .about-text p:nth-child(1) {
-  color: #062b06;
+  color: #038003;
   font-family: myriad pro;
   font-weight: bold;
   font-size: 30px;
@@ -241,6 +244,7 @@ button:hover {
   margin: 0px 10px;
 }
 
+/*-----about page image styling------*/
 .photo-container {
   height: 320px;
   margin-left: 20px;
@@ -254,7 +258,7 @@ button:hover {
 }
 
 /*---------Responsive-About---------*/
-@media screen and (max-width: 760px) {
+@media screen and (max-width: 770px) {
   .photo-container {
     justify-content: center;
     height: 200px;
@@ -264,6 +268,7 @@ button:hover {
     width: 400px;
     flex-wrap: wrap;
     margin-top: 5px;
+    flex-wrap: wrap;
   }
 
   .about-text p:nth-child(2) {
@@ -285,13 +290,13 @@ button:hover {
 @media screen and (max-width: 400px) {
   .photo-container {
     justify-content: center;
-    height: 200px;
+    height: 320px;
   }
 
   .about-text {
     width: 400px;
     flex-wrap: wrap;
-    margin-top: 50px;
+    margin-top: 2px;
   }
 
   .about-text p:nth-child(2) {
@@ -318,6 +323,7 @@ button:hover {
   width: 100%;
 }
 
+/*-----work page text styling------*/
 .work-text p:nth-child(1) {
   font-family: calibri;
   font-weight: bold;
@@ -361,6 +367,7 @@ button:hover {
   padding: 10px;
 }
 
+/*-----work page box styling------*/
 .box-container {
   display: flex;
   justify-content: space-between;
@@ -455,7 +462,7 @@ button:hover {
 }
 
 /*---------Responsive Work---------*/
-@media screen and (max-width: 760px) {
+@media screen and (max-width: 770px) {
   .Work {
     height: 1325px;
     background-color: whitesmoke;
@@ -572,7 +579,7 @@ button:hover {
 .blog {
   width: 100%;
   height: 348vh;
-  margin-top: 30px;
+  margin-top: 55px;
   background-color: white;
 }
 
@@ -612,11 +619,11 @@ button:hover {
 }
 
 /*---------Responsive Blog---------*/
-@media screen and (max-width: 760px) {
+@media screen and (max-width: 770px) {
   .blog {
     width: 100%;
-    height: 382vh;
-    margin-top: 30px;
+    height: 200vh;
+    margin-top: 45px;
     background-color: white;
   }
 
@@ -659,7 +666,7 @@ button:hover {
   .blog {
     width: 100%;
     height: 368vh;
-    margin-top: 30px;
+    margin-top: 65px;
     background-color: white;
   }
 
@@ -704,7 +711,7 @@ button:hover {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-top: 60px;
+  margin-top: 70px;
 }
 
 .text-zone {

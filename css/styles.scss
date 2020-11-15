@@ -26,7 +26,7 @@ nav{
     height: 32px;
     display: block;
     overflow: visible;
-    border: 4px solid #000;
+    border: 4px solid rgb(3, 128, 3);
     position: relative;
     transform: rotate(0deg);
     transition: transform .4s ease-in-out;
@@ -143,7 +143,7 @@ button:hover {
 }
 
 /*-------Responsive-Home--------*/
-@media screen and (max-width: 760px){
+@media screen and (max-width: 770px){
    
     .model{
 		height: 290px;
@@ -200,10 +200,12 @@ button:hover {
     margin-left: 60px;
     margin-right: 40px;
     padding-top: 21px;
+
+
 }
 
 .about-text p:nth-child(1){
-	color:rgb(6, 43, 6);
+	color:rgb(3, 128, 3);
 	font-family: myriad pro;
 	font-weight:bold;
 	font-size:30px;
@@ -255,7 +257,7 @@ button:hover {
 }
 
 /*---------Responsive-About---------*/
-@media screen and (max-width:760px){
+@media screen and (max-width:770px){
 	.photo-container{
         justify-content: center;
         height: 200px;
@@ -265,7 +267,7 @@ button:hover {
         width: 400px;
         flex-wrap: wrap;
         margin-top: 5px;
-
+        flex-wrap: wrap;
     }
     .about-text p:nth-child(2){
         font-size:25px;
@@ -284,13 +286,13 @@ button:hover {
 @media screen and (max-width:400px){
 	.photo-container{
         justify-content: center;
-        height: 200px;
+        height: 320px;
 
     }
     .about-text{
         width: 400px;
         flex-wrap: wrap;
-        margin-top: 50px;
+        margin-top: 2px;
 
     }
     .about-text p:nth-child(2){
@@ -440,7 +442,7 @@ button:hover {
 }
 
 /*---------Responsive Work---------*/
-@media screen and (max-width:760px){
+@media screen and (max-width:770px){
     .Work{
         height:1325px;
         background-color:whitesmoke;
@@ -561,7 +563,7 @@ button:hover {
 .blog {
     width:100%;
 	height:348vh;
-    margin-top: 45px;
+    margin-top: 55px;
     background-color:white;
 }
 .inner-container {
@@ -601,11 +603,11 @@ button:hover {
 }
 
 /*---------Responsive Blog---------*/
-@media screen and (max-width:760px){
+@media screen and (max-width:770px){
     .blog {
         width:100%;
-        height:382vh;
-        margin-top: 30px;
+        height:200vh;
+        margin-top: 45px;
         background-color:white;
     }
     .inner-container {
@@ -648,7 +650,7 @@ button:hover {
     .blog {
         width:100%;
         height:368vh;
-        margin-top: 30px;
+        margin-top: 65px;
         background-color:white;
          
     }
@@ -695,7 +697,7 @@ button:hover {
 	flex-direction: column;
 	justify-content: center;
     align-items: center;
-    margin-top: 60px;
+    margin-top: 70px;
     
 }
 .text-zone {

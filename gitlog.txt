@@ -1,3 +1,39 @@
+commit b0b130aba2cff67fdbb9b6483ae629b4abc41adc
+Author: Blaise122 <70517861+Blaise122@users.noreply.github.com>
+Date:   Thu Nov 12 22:31:23 2020 +1000
+
+    made changes to sass
+
+commit 00bd541c1985d14fd4731a802f49e319f38867f1
+Author: Blaise122 <70517861+Blaise122@users.noreply.github.com>
+Date:   Thu Nov 12 22:26:07 2020 +1000
+
+    changed margin-top of .blog
+
+commit 830b73bbd445cb5e0892fc416282c84eb5a25c81
+Author: Blaise122 <70517861+Blaise122@users.noreply.github.com>
+Date:   Thu Nov 12 20:43:48 2020 +1000
+
+    added privacy policy
+
+commit fe1a3911cdf5205550b1a9ecf480a74823f14132
+Author: Blaise122 <70517861+Blaise122@users.noreply.github.com>
+Date:   Thu Nov 12 12:24:05 2020 +1000
+
+    made notes in scss for easier debugging
+
+commit cae03a3ba57ddffe2a5817d70156b8849d33c792
+Author: Blaise122 <70517861+Blaise122@users.noreply.github.com>
+Date:   Thu Nov 12 12:12:16 2020 +1000
+
+    deleted copyright icon
+
+commit 4ee83faebce9440714f5a5ce07e5c243d2fec486
+Author: Blaise122 <70517861+Blaise122@users.noreply.github.com>
+Date:   Thu Nov 12 12:10:34 2020 +1000
+
+    inserted copyright icon
+
 commit 64c880ed64c5de094b4b6bfa16341515bcafa51c
 Author: Blaise122 <70517861+Blaise122@users.noreply.github.com>
 Date:   Thu Nov 12 11:57:44 2020 +1000
